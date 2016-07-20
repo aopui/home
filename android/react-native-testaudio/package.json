@@ -1,0 +1,11 @@
+{
+  "name": "react-native-testAudio",
+  "version": "0.2.0",
+  "description": "TestAudio player library for react native",
+  "main": "TestAudio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TestAudio",
+  "license": "MIT"
+}
